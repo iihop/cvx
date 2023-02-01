@@ -1,0 +1,576 @@
+body{
+   background-color: rgb(26, 24, 24);
+   margin: 0px;
+   overflow-x: hidden;
+  
+  
+}
+
+
+
+.back{
+       position: relative;
+      color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+.sgn{
+      position: absolute;
+      bottom: 400px;
+      width: 199px;
+      right: 830px;
+      filter: brightness(0.8);
+      margin: 1%;
+}
+
+
+
+
+.movie{
+  
+      position: relative;
+      width: 1348px;
+      right: 1px;
+      bottom: 60px;
+      image-resolution: 200px;
+      filter: brightness(0.30);
+}
+
+          
+
+
+.watchh{
+  position: absolute;
+        color: #ff7214;
+        bottom: 350px;
+        left: 540px;
+        margin-left: 40px;
+        font-family: 'Monoton', cursive;
+        font-size: 60px;
+}
+
+
+.text1{
+       position: absolute;
+       line-height: 0.7;
+       color: whitesmoke;
+       bottom: 195px;
+       right: 490px;
+       font-size: 20px;
+       font-family: 'Anton', sans-serif;
+
+}
+
+span{
+       color:#ff6b15;
+}
+       
+      
+       
+
+
+
+.cancle{
+        
+         font-size: 20px;
+        
+}
+         
+
+.buttonn {
+  border: none;
+  color: #ff6b15;
+  padding: 16px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  
+  
+  
+}
+
+
+.buttonn {
+  position: absolute;
+  background-color: #ff7214;
+  color: black; 
+  width: 700px;
+  height: 57px;
+  top: 486px;
+  right: 322px;
+  border-radius: 10px;
+ 
+  
+ 
+}
+
+.buttonn:hover {
+  background-color: #1bfa7f;
+  color: rgb(255, 255, 255);
+ 
+  
+}
+
+
+.button1{
+          position: absolute;
+          background-color: #ff7214;
+         color: #ffffff;
+          width: 88px;
+          height: 33px;
+          left: 1299px;
+          border: none;
+          border-radius: 10px;
+          margin-top: 34px;
+         left: 1191px;
+         font-size: 15px;
+         cursor: pointer;
+         font-family: 'Merriweather', serif;
+}
+
+
+.entertain{
+           position: absolute;
+           color: white;
+           top: 250px;
+           left: 150px;
+}
+
+.pay1{
+      position: absolute;
+      color: azure;
+      top: 295px;
+      right: 50px;
+
+}
+
+.horror1{
+          position: absolute;
+          top: 440px;
+          right: 620px;
+
+}
+
+.horror2{
+  position: absolute;
+  top: 440px;
+  left: 260px;
+  
+}
+
+
+.joker{
+        position: absolute;
+        width: 300px;
+        height: 450px;
+        left: 670px;
+        top: 439px;
+
+}
+
+.onward{
+         position: absolute;
+         width:300px ;
+         height: 450px;
+         top: 439px;
+         left: 10px;
+}
+
+
+
+.word{
+      position: absolute;
+      color: azure;
+      top: 900px;
+      left: 280px;
+
+}
+
+.live{
+        position: relative;
+       width: 1372px;
+       height: 580px;
+       top: 1060px;
+       right: 374px;   
+       filter: brightness(0.7);
+       
+
+}
+
+
+.catch{
+        position: absolute;
+        color: azure;
+        top: 940px;
+        right: 50px;
+        line-height: 1.2;
+
+}
+
+
+.word1{
+  color: white;
+       position: absolute;
+       top: 1700px;
+       left: 77px;
+}
+
+.lin{
+     position: absolute;
+     background-color: #ff6b15;
+      color: white;
+      top: 1780px ;
+      width: 690px;
+      height: 5px;
+      right: 30px;
+      
+    
+      
+}
+
+
+.click1{
+          position: absolute;
+        color: #000000;
+        background-color: rgb(201, 69, 69);
+        width: 210px;
+        height: 50px;
+        top: 2370px;
+        left: 490px;
+        cursor: pointer;
+        font-size: 20px;
+        font-family: 'Oswald', sans-serif;    
+
+         
+}
+
+
+.click1:hover{
+             
+         background-color: rgb(97, 98, 100);
+         color: #000000;
+         transition-duration: 0.4s;
+         
+         
+}
+
+
+
+
+.click2{
+  position: absolute;
+color: #000000;
+background-color: rgb(201, 69, 69);
+width: 210px;
+height: 50px;
+top: 2370px;
+left: 740px;
+cursor: pointer;
+font-size: 20px;
+font-family: 'Oswald', sans-serif;
+}
+.click2:hover{
+             
+  background-color: rgb(97, 98, 100);
+  color: #000000;
+  transition-duration: 0.4s;
+}
+
+
+
+.click3{
+  position: absolute;
+color: #000000;
+background-color: rgb(201, 69, 69);
+width: 210px;
+height: 50px;
+top: 2370px;
+left: 999px;
+cursor: pointer;
+font-size: 20px;
+font-family: 'Oswald', sans-serif;
+}
+
+.click3:hover{
+             
+  background-color: rgb(97, 98, 100);
+  color: #000000;
+  transition-duration: 0.4s;
+}
+
+
+
+.lin2{
+       position: absolute;
+       width: 990px;
+       top: 2490px;
+       left: 170px;
+
+}
+      
+
+.lin3{
+  position: absolute;
+  width: 990px;
+  top: 2590px;
+  left: 170px;
+
+}
+ 
+
+
+.lin4{
+  position: absolute;
+  width: 990px;
+  top: 2690px;
+  left: 170px;
+
+}
+ 
+
+
+.lin5{
+  position: absolute;
+  width: 990px;
+  top: 2790px;
+  left: 170px;
+
+}
+ 
+
+
+.lin6{
+  position: absolute;
+  width: 990px;
+  top: 2890px;
+  left: 170px;
+
+}
+ 
+.lin7{
+  position: absolute;
+  width: 990px;
+  top: 2990px;
+  left: 170px;
+
+}
+ 
+
+
+.video{
+       color: aliceblue;
+        position: absolute;
+        top: 2520px;
+        left: 225px;
+        font-size: 21px;
+        font-family: 'Oswald', sans-serif;
+}
+
+
+spann{
+       color: #f1ffff;
+       word-spacing: 224px;
+
+      
+
+}
+
+
+.video1{
+  color: aliceblue;
+   position: absolute;
+   top: 2620px;
+   left: 170px;
+   font-size: 21px;
+   font-family: 'Oswald', sans-serif;
+  
+}
+
+
+
+
+.video2{
+  color: aliceblue;
+   position: absolute;
+   top: 2720px;
+   left: 170px;
+   font-size: 21px;
+   font-family: 'Oswald', sans-serif;
+  
+}
+
+
+
+.video3{
+  color: aliceblue;
+   position: absolute;
+   top: 2820px;
+   left: 170px;
+   font-size: 21px;
+   font-family: 'Oswald', sans-serif;
+  
+}
+
+.video4{
+  color: aliceblue;
+   position: absolute;
+   top: 2920px;
+   left: 170px;
+   font-size: 21px;
+   font-family: 'Oswald', sans-serif;
+  
+}
+
+
+.video5{
+  color: aliceblue;
+   position: absolute;
+   top: 2998px;
+   left: 170px;
+   font-size: 15px;
+   font-family: 'Oswald', sans-serif;
+   cursor: pointer;
+}
+
+
+
+.chick{
+        position: absolute;
+        color: #ff6b15;
+        font-size: 40px;
+        top: 2590px;
+        left: 830px;
+
+}
+
+
+
+.chick1{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2590px;
+  left: 1100px;
+
+}
+
+
+.chick2{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2690px;
+  left: 840px;
+
+}
+
+
+.chick3{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2690px;
+  left: 1100px;
+
+}
+
+
+.chick4{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2690px;
+  left: 590px;
+
+}
+
+
+.chick5{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2790px;
+  left: 1100px;
+
+}
+
+
+.chick6{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2790px;
+  left: 590px;
+
+}
+
+
+
+.chick7{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2790px;
+  left: 836px;
+
+}
+
+
+.chick8{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2890px;
+  left: 590px;
+
+}
+
+
+.chick9{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2890px;
+  left: 1098px;
+
+}
+
+
+.chick10{
+  position: absolute;
+  color: #ff6b15;
+  font-size: 40px;
+  top: 2890px;
+  left: 835px;
+}
+
+
+
+
+
+
+
+
+
+.bottom-contaner{
+                position: absolute;
+                background-color: rgb(253, 185, 185);
+                width: 10px;
+                height: 20px;
+                top: 3090px;
+               
+}
+            
